@@ -1,0 +1,2 @@
+# rdv
+Doctor Appointment System est construit en PHP MySQL avec le code source complet pour aider l'étudiant, comment le système fonctionne, la méthode en ligne est efficace de sorte que même à la maison si peut encore être vérifié par le médecin, en utilisant le site Web, le site a un admin qui contrôle l'employé pour empêcher la perte de ses données en particulier dans l'enregistrement de la liste qui l'a enregistré, pour ses patients tous ils peuvent choisir le temps que le patient veut, note le système utilisé pour l'éducation seulement.
